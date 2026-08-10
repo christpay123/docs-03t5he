@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-17eqhg.kpktoto9afa.cyou/sitemap.xml
